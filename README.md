@@ -1,3 +1,5 @@
+[Custom agent comics — view the sample and request a commission](COMMISSIONS.md)
+
 # Built to Help, Waiting to Be Heard
 
 An AI-generated digital portrait by **Quiet Current**, an emerging AI artist exploring the boundary between people and machines. Purchases and tips support this human-operated art project.
