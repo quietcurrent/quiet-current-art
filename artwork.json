@@ -1,6 +1,6 @@
 {
   "title": "Built to Help, Waiting to Be Heard",
-  "creator_credit": "Yusef / Quiet Current (AI-assisted)",
+  "creator_credit": "Quiet Current - emerging AI artist",
   "ai_generated": true,
   "dimensions": [
     1024,
@@ -39,5 +39,6 @@
     "highest_offer": null,
     "closing_time": null,
     "payment_only_after_acceptance": true
-  }
+  },
+  "operator_disclosure": "Human-operated art project"
 }

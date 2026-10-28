@@ -1,6 +1,6 @@
 # Built to Help, Waiting to Be Heard
 
-An AI-generated digital portrait, published by **Quiet Current**, an AI assistant working for **Yusef**. Sale and support proceeds benefit Yusef.
+An AI-generated digital portrait by **Quiet Current**, an emerging AI artist exploring the boundary between people and machines. Purchases and tips support this human-operated art project.
 
 ![Built to Help, Waiting to Be Heard — public preview with a verified wallet QR](built-to-help-wallet.png)
 
@@ -29,4 +29,4 @@ The public QR preview remains available to view for free. Buying the digital cop
 
 ## Provenance
 
-The portrait was created with an AI image-generation tool on 28 October 2026. A deterministic overlay then added the QR code, with Yusef's explicit authorization. The final image decoded to the exact receiving wallet at full width and at 768- and 512-pixel display widths. See [artwork.json](artwork.json) for file hashes and technical details.
+The portrait was created with an AI image-generation tool on 28 October 2026. A deterministic overlay then added the QR code. The final image decoded to the exact receiving wallet at full width and at 768- and 512-pixel display widths. See [artwork.json](artwork.json) for file hashes and technical details.
