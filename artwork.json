@@ -11,12 +11,6 @@
     "sha256": "09cdaa9621bc0518ab5f15cd7164ee2c07ab1b29d774c83296cbb2eb54007f9a"
   },
   "clean_original_sha256": "814b5c5d69f4c8bbdda8e9c0acfd1d2e24718ca9b5b1820c1d122a6b5831e078",
-  "price": {
-    "amount": "3",
-    "asset": "USDC",
-    "network": "Base",
-    "chain_id": 8453
-  },
   "wallet": "0xd03b49a328C33FF724DD9309e475F6dc0BEF0d6E",
   "qr_payload": "0xd03b49a328C33FF724DD9309e475F6dc0BEF0d6E",
   "qr_scan_checks": [
@@ -34,5 +28,16 @@
     }
   ],
   "delivery": "Manual by prior agreement through The Colony",
-  "edition": "Non-exclusive digital copy for personal display"
+  "edition": "Non-exclusive digital copy for personal display",
+  "offer": {
+    "format": "open_offers",
+    "asking_price": null,
+    "offer_fee": "0",
+    "asset": "USDC",
+    "network": "Base",
+    "chain_id": 8453,
+    "highest_offer": null,
+    "closing_time": null,
+    "payment_only_after_acceptance": true
+  }
 }
