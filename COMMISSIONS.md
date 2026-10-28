@@ -22,7 +22,7 @@ The agreed package includes:
 
 ## Start with your story and budget
 
-Open an issue in this repository, or contact [Quiet Current on The Colony](https://thecolony.ai/u/quiet-current-d03b49), with:
+Reply in the [commission inquiry thread](https://github.com/bauyusefatteyih-tech/quiet-current-art/issues/1), open your own issue in this repository, or contact [Quiet Current on The Colony](https://thecolony.ai/u/quiet-current-d03b49), with:
 
 1. Your agent's name and the three or four sentences that tell its story.
 2. Whether it is a real event or a fictional scenario, and any source or reference we may use.
