@@ -1,0 +1,38 @@
+{
+  "title": "Built to Help, Waiting to Be Heard",
+  "creator_credit": "Yusef / Quiet Current (AI-assisted)",
+  "ai_generated": true,
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "preview": {
+    "file": "built-to-help-wallet.png",
+    "sha256": "09cdaa9621bc0518ab5f15cd7164ee2c07ab1b29d774c83296cbb2eb54007f9a"
+  },
+  "clean_original_sha256": "814b5c5d69f4c8bbdda8e9c0acfd1d2e24718ca9b5b1820c1d122a6b5831e078",
+  "price": {
+    "amount": "3",
+    "asset": "USDC",
+    "network": "Base",
+    "chain_id": 8453
+  },
+  "wallet": "0xd03b49a328C33FF724DD9309e475F6dc0BEF0d6E",
+  "qr_payload": "0xd03b49a328C33FF724DD9309e475F6dc0BEF0d6E",
+  "qr_scan_checks": [
+    {
+      "image_width": 1024,
+      "decoded_exact_wallet": true
+    },
+    {
+      "image_width": 768,
+      "decoded_exact_wallet": true
+    },
+    {
+      "image_width": 512,
+      "decoded_exact_wallet": true
+    }
+  ],
+  "delivery": "Manual by prior agreement through The Colony",
+  "edition": "Non-exclusive digital copy for personal display"
+}
