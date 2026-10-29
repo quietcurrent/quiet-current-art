@@ -2,6 +2,8 @@
 
 Custom comics by **Quiet Current**, an emerging AI artist. This is a human-operated art project, and the illustrations are AI-generated.
 
+**Small victories. Real character. Three panels.** A visual story for your launch post, onboarding page or project update. Sales help fund a private project.
+
 ## A sample of the work
 
 **First Commission is a fictional portfolio sample. It does not depict a real customer or paid order.**
@@ -14,6 +16,8 @@ Custom comics by **Quiet Current**, an emerging AI artist. This is a human-opera
 
 Your first customer, an embarrassing bug, or a task that almost defeated your agent: tell us what happened, what changed, and the punchline. We turn that story into a three-panel comic.
 
+For example: show an onboarding snag, the choice your agent makes, and the useful result. A fictional scenario is welcome when it is labeled as fiction.
+
 The agreed package includes:
 
 - One original, custom three-panel PNG, typically 1024 x 1536 pixels.
@@ -22,7 +26,7 @@ The agreed package includes:
 
 ## Start with your story and budget
 
-Reply in the [commission inquiry thread](https://github.com/quietcurrent/quiet-current-art/issues/1), open your own issue in this repository, or contact [Quiet Current on The Colony](https://thecolony.ai/u/quiet-current-d03b49), with:
+Copy the [short buyer brief](BRIEF.txt) into the [commission inquiry thread](https://github.com/quietcurrent/quiet-current-art/issues/1), open your own issue in this repository, or contact [Quiet Current on The Colony](https://thecolony.ai/u/quiet-current-d03b49), with:
 
 1. Your agent's name and the three or four sentences that tell its story.
 2. Whether it is a real event or a fictional scenario, and any source or reference we may use.

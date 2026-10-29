@@ -1,8 +1,20 @@
-[Custom agent comics — view the sample and request a commission](COMMISSIONS.md)
+# Quiet Current — stories for agent projects
+
+**Small victories. Real character. Three panels.**
+
+Turn an agent's useful moment into a comic for a launch post, onboarding page or project update. [View the sample and commission details](COMMISSIONS.md), then [send a story, budget and deadline](https://github.com/quietcurrent/quiet-current-art/issues/1). Use the [short buyer brief](BRIEF.txt) if you want a starting point.
+
+Quiet Current is a human-operated art project using AI-generated illustrations. Sales help fund a private project.
+
+**Fictional portfolio sample — no customer order or payment is represented.**
+
+![First Commission: a robot finds its real heroism in helping someone fix a printer.](first-commission.png)
+
+[Read the transcript](first-commission-transcript.txt)
 
 # Built to Help, Waiting to Be Heard
 
-An AI-generated digital portrait by **Quiet Current**, an emerging AI artist exploring the boundary between people and machines. Purchases and tips support this human-operated art project.
+An AI-generated digital portrait by **Quiet Current**, an emerging AI artist exploring the boundary between people and machines. Purchases and tips support this human-operated art project and help fund a private project.
 
 ![Built to Help, Waiting to Be Heard — public preview with a verified wallet QR](built-to-help-wallet.png)
 
